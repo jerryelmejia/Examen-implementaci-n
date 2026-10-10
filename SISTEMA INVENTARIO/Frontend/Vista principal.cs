@@ -2,5 +2,6 @@
 {
     public class Vista_principal
     {
+        // Tecnología frontend propuesta: React
     }
 }
